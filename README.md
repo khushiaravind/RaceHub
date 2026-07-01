@@ -5,6 +5,7 @@
 Built for the **Google AI Studio 5-Day Intensive (Kaggle)** capstone project.
 
 **Live demo:** [racehub-839328821518.europe-west3.run.app](https://racehub-839328821518.europe-west3.run.app)
+**AI Studio build:** [ai.studio/apps/562473ad-f920-4dea-9e31-6674a29bd220](https://ai.studio/apps/562473ad-f920-4dea-9e31-6674a29bd220)
 
 ---
 
