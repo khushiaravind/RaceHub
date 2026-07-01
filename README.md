@@ -6,6 +6,17 @@ Built for the **Google AI Studio 5-Day Intensive (Kaggle)** capstone project.
 
 **Live demo:** [racehub-839328821518.europe-west3.run.app](https://racehub-839328821518.europe-west3.run.app)
 
+---
+
+## Screenshots
+
+**Pit wall telemetry workstation** — live speed/RPM/pedal traces, tire status, and the Gemini-powered AI race engineer:
+
+![RaceHub main dashboard](docs/screenshots/dashboard-main.png)
+
+**Circuit map, tire strategy center, and race prediction engine** (Monaco shown):
+
+![RaceHub strategy and prediction panels](docs/screenshots/strategy-prediction.png)
 
 ---
 
